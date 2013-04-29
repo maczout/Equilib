@@ -18,23 +18,27 @@ along with Equilib.  If not, see <http://www.gnu.org/licenses/>.
 
 
 
+*About:
 Equilib is a plugin for doing graphic statics in SketchUp.  
-More information: http://www.graphicstatics.net/
 
+*Website:
+http://www.graphicstatics.net/
 
-Version:
+*Source Code
+https://github.com/maczout/Equilib/
+
+*Version History:
 0.5     20130429 First commit
 
-
-
 Installation:
-1. Copy all files and folders from github repository into the Sketchup plugins directory.
-On Windows - the default location is: C:\Program Files\Google\Google SketchUp #\Plugins.
-On Mac OS X - the default location is: [YOUR USER NAME]/Library/Application Support/Google SketchUp #/SketchUp/plugins
-2. Ensure Equilib is activated as an extension in the SketchUp preferences dialog.
-On Windows - Window -> Preferences..., Extensions
-On Max OS X - SketchUp -> Preferences..., Extensions
+1. Install SketchUp on your system (Windows or Mac OS X)
+	* Download from http://www.sketchup.com/
+2. Copy all files and folders from github repository into the SketchUp plugins directory.
+	* On Windows - the default location is: C:\Program Files\Google\Google SketchUp #\Plugins.
+	* On Mac OS X - the default location is: [YOUR USER NAME]/Library/Application Support/Google SketchUp #/SketchUp/plugins
+3. Ensure Equilib is activated as an extension in the SketchUp preferences dialog.
+	* On Windows - Window -> Preferences..., Extensions
+	* On Max OS X - SketchUp -> Preferences..., Extensions
 
-
-Usage:
-Tools -> Equilib
+*Usage:
+In SketchUp: Tools -> Equilib

@@ -46,7 +46,7 @@
 							<key>filename</key>
 							<string>jm/equilib/joint.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-25T02:11:33Z</date>
+							<date>2013-04-28T17:36:06Z</date>
 							<key>selected</key>
 							<true/>
 						</dict>
@@ -293,7 +293,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>8</integer>
+			<integer>0</integer>
 		</dict>
 		<key>jm/equilib/loader.rb</key>
 		<dict>
@@ -388,8 +388,6 @@
 		<string>jm/equilib/force.rb</string>
 		<string>jm/equilib/component_instance_wrapper.rb</string>
 		<string>jm/equilib/sandbox.rb</string>
-		<string>jm/equilib/ui/add_external_force_tool.rb</string>
-		<string>jm/equilib/ui/add_internal_force_tool.rb</string>
 		<string>jm/equilib/ui/picker.rb</string>
 		<string>jm/equilib/form_diagram.rb</string>
 		<string>jm/equilib/force_diagram.rb</string>
@@ -399,6 +397,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{-1628, -180}, {1628, 1080}}</string>
+	<string>{{285, 4}, {1071, 742}}</string>
 </dict>
 </plist>
