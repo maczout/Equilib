@@ -3,14 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>jm/equilib/joint.rb</string>
+	<string>jm/equilib/component_instance_wrapper.rb</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
+			<string>readme.md</string>
+			<key>lastUsed</key>
+			<date>2013-04-29T05:20:07Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
 			<string>equilib.rb</string>
 			<key>lastUsed</key>
-			<date>2013-03-21T03:36:15Z</date>
+			<date>2013-05-10T09:17:41Z</date>
 		</dict>
 		<dict>
 			<key>children</key>
@@ -22,51 +28,57 @@
 							<key>filename</key>
 							<string>jm/equilib/loader.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-25T00:24:34Z</date>
+							<date>2013-05-15T12:51:00Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>jm/equilib/sandbox.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-25T01:12:36Z</date>
+							<date>2013-05-18T13:24:00Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>jm/equilib/form_diagram.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-25T00:24:55Z</date>
+							<date>2013-05-16T16:54:25Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>jm/equilib/force_diagram.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-25T01:14:06Z</date>
+							<date>2013-05-18T15:41:59Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>jm/equilib/joint.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-28T17:36:06Z</date>
-							<key>selected</key>
-							<true/>
+							<date>2013-05-18T14:47:07Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>jm/equilib/body.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-25T02:09:44Z</date>
+							<date>2013-05-18T13:23:54Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>jm/equilib/force.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-25T02:11:33Z</date>
+							<date>2013-05-18T14:53:50Z</date>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>jm/equilib/abstract_force.rb</string>
+							<key>lastUsed</key>
+							<date>2013-05-19T16:02:26Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>jm/equilib/component_instance_wrapper.rb</string>
 							<key>lastUsed</key>
-							<date>2013-04-25T01:48:36Z</date>
+							<date>2013-05-19T16:02:26Z</date>
+							<key>selected</key>
+							<true/>
 						</dict>
 						<dict>
 							<key>children</key>
@@ -75,49 +87,43 @@
 									<key>filename</key>
 									<string>jm/equilib/ui/ui.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-23T03:06:08Z</date>
+									<date>2013-05-16T16:17:48Z</date>
 								</dict>
 								<dict>
 									<key>filename</key>
 									<string>jm/equilib/ui/picker.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-25T01:01:45Z</date>
+									<date>2013-05-15T12:17:43Z</date>
 								</dict>
 								<dict>
 									<key>filename</key>
 									<string>jm/equilib/ui/tool.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-23T03:03:22Z</date>
+									<date>2013-05-19T15:58:03Z</date>
+								</dict>
+								<dict>
+									<key>filename</key>
+									<string>jm/equilib/ui/add_force_tool.rb</string>
+									<key>lastUsed</key>
+									<date>2013-05-16T16:06:56Z</date>
 								</dict>
 								<dict>
 									<key>filename</key>
 									<string>jm/equilib/ui/inspect_tool.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-23T03:22:30Z</date>
-								</dict>
-								<dict>
-									<key>filename</key>
-									<string>jm/equilib/ui/add_internal_force_tool.rb</string>
-									<key>lastUsed</key>
-									<date>2013-04-25T01:07:08Z</date>
-								</dict>
-								<dict>
-									<key>filename</key>
-									<string>jm/equilib/ui/add_external_force_tool.rb</string>
-									<key>lastUsed</key>
-									<date>2013-04-25T00:49:42Z</date>
+									<date>2013-05-16T16:17:55Z</date>
 								</dict>
 								<dict>
 									<key>filename</key>
 									<string>jm/equilib/ui/specify_magnitude_tool.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-19T05:49:28Z</date>
+									<date>2013-05-16T16:05:28Z</date>
 								</dict>
 								<dict>
 									<key>filename</key>
 									<string>jm/equilib/ui/specify_line_of_action_tool.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-19T05:49:39Z</date>
+									<date>2013-05-16T16:15:47Z</date>
 								</dict>
 							</array>
 							<key>expanded</key>
@@ -138,19 +144,19 @@
 									<key>filename</key>
 									<string>jm/equilib/lib/transformation_extensions.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-22T03:46:25Z</date>
+									<date>2013-05-18T13:35:39Z</date>
 								</dict>
 								<dict>
 									<key>filename</key>
 									<string>jm/equilib/lib/point3d_extensions.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-22T05:18:21Z</date>
+									<date>2013-05-16T15:54:29Z</date>
 								</dict>
 								<dict>
 									<key>filename</key>
 									<string>jm/equilib/lib/vector3d_extensions.rb</string>
 									<key>lastUsed</key>
-									<date>2013-04-22T01:44:02Z</date>
+									<date>2013-05-18T14:23:23Z</date>
 								</dict>
 							</array>
 							<key>expanded</key>
@@ -188,184 +194,240 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>21</integer>
+				<integer>27</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+		</dict>
+		<key>jm/equilib/abstract_force.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>18</integer>
+				<key>line</key>
+				<integer>25</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>7</integer>
 		</dict>
 		<key>jm/equilib/body.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>10</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>13</integer>
+				<integer>79</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>71</integer>
 		</dict>
 		<key>jm/equilib/component_instance_wrapper.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>24</integer>
 				<key>line</key>
-				<integer>61</integer>
+				<integer>124</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>36</integer>
+			<integer>88</integer>
 		</dict>
 		<key>jm/equilib/force.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>49</integer>
+				<integer>6</integer>
 				<key>line</key>
-				<integer>25</integer>
+				<integer>112</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>3</integer>
+			<integer>96</integer>
 		</dict>
 		<key>jm/equilib/force_diagram.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>88</integer>
+				<integer>5</integer>
 				<key>line</key>
-				<integer>50</integer>
+				<integer>185</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>52</integer>
-				<key>line</key>
-				<integer>50</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>88</integer>
-				<key>line</key>
-				<integer>50</integer>
-			</dict>
+			<integer>106</integer>
 		</dict>
 		<key>jm/equilib/form_diagram.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>19</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>23</integer>
+				<integer>37</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>18</integer>
 		</dict>
 		<key>jm/equilib/joint.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>33</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>28</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>jm/equilib/loader.rb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>56</integer>
-				<key>line</key>
-				<integer>31</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>3</integer>
-		</dict>
-		<key>jm/equilib/sandbox.rb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>67</integer>
-				<key>line</key>
-				<integer>92</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>68</integer>
-		</dict>
-		<key>jm/equilib/ui/add_external_force_tool.rb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>19</integer>
-				<key>line</key>
-				<integer>28</integer>
+				<integer>139</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>119</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>6</integer>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>30</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>139</integer>
+			</dict>
+		</dict>
+		<key>jm/equilib/lib/point3d_extensions.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>4</integer>
+		</dict>
+		<key>jm/equilib/lib/transformation_extensions.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>55</integer>
+		</dict>
+		<key>jm/equilib/lib/vector3d_extensions.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>29</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>8</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
 				<key>line</key>
 				<integer>28</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>19</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>28</integer>
+				<integer>29</integer>
 			</dict>
 		</dict>
-		<key>jm/equilib/ui/add_internal_force_tool.rb</key>
+		<key>jm/equilib/loader.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>25</integer>
+				<integer>20</integer>
 				<key>line</key>
-				<integer>49</integer>
+				<integer>31</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>44</integer>
+			<integer>5</integer>
+		</dict>
+		<key>jm/equilib/sandbox.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>34</integer>
+				<key>line</key>
+				<integer>129</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>105</integer>
+		</dict>
+		<key>jm/equilib/ui/add_force_tool.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>22</integer>
+				<key>line</key>
+				<integer>37</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>35</integer>
+		</dict>
+		<key>jm/equilib/ui/inspect_tool.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>39</integer>
+				<key>line</key>
+				<integer>85</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>37</integer>
 		</dict>
 		<key>jm/equilib/ui/picker.rb</key>
 		<dict>
@@ -374,29 +436,127 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>61</integer>
+				<integer>38</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>21</integer>
+			<integer>52</integer>
+		</dict>
+		<key>jm/equilib/ui/specify_line_of_action_tool.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>75</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>40</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>57</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>75</integer>
+			</dict>
+		</dict>
+		<key>jm/equilib/ui/specify_magnitude_tool.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>9</integer>
+				<key>line</key>
+				<integer>73</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>173</integer>
+		</dict>
+		<key>jm/equilib/ui/tool.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>30</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>22</integer>
+		</dict>
+		<key>jm/equilib/ui/ui.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>37</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>57</integer>
+		</dict>
+		<key>readme.md</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>2</integer>
+				<key>line</key>
+				<integer>32</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>10</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
 		<string>jm/equilib/loader.rb</string>
+		<string>equilib.rb</string>
+		<string>readme.md</string>
 		<string>jm/equilib/force.rb</string>
+		<string>jm/equilib/lib/transformation_extensions.rb</string>
+		<string>jm/equilib/lib/vector3d_extensions.rb</string>
 		<string>jm/equilib/component_instance_wrapper.rb</string>
+		<string>jm/equilib/abstract_force.rb</string>
 		<string>jm/equilib/sandbox.rb</string>
+		<string>jm/equilib/lib/point3d_extensions.rb</string>
 		<string>jm/equilib/ui/picker.rb</string>
 		<string>jm/equilib/form_diagram.rb</string>
 		<string>jm/equilib/force_diagram.rb</string>
 		<string>jm/equilib/body.rb</string>
 		<string>jm/equilib/joint.rb</string>
+		<string>jm/equilib/ui/inspect_tool.rb</string>
+		<string>jm/equilib/ui/specify_magnitude_tool.rb</string>
+		<string>jm/equilib/ui/ui.rb</string>
+		<string>jm/equilib/ui/tool.rb</string>
+		<string>jm/equilib/ui/add_force_tool.rb</string>
+		<string>jm/equilib/ui/specify_line_of_action_tool.rb</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{285, 4}, {1071, 742}}</string>
+	<string>{{292, 4}, {1074, 742}}</string>
 </dict>
 </plist>
